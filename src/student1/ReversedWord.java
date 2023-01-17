@@ -3,6 +3,8 @@
 package student1;
 
 import java.util.Scanner;
+
+/* author: amber Do */
 public class ReversedWord {
     public static void main(String[] args){
         /*char[] myWord = new char[7]; 
