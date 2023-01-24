@@ -6,7 +6,7 @@
 package student1;
 
 
-
+/* date: 12/1/2023 */
 
 public class StudentList {
     public static void main(String[] args){
